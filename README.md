@@ -10,17 +10,8 @@
 팀 구성원들이 협업 공간을 생성하여 목표에 따라 스프린트와 이슈를 체계적으로 관리할 수 있는 서비스를 제공하고자 하였습니다. 
 검색, 드래그 앤 드롭, 타임라인을 통해 스프린트와 이슈를 검색/수정하며 확인할 수 있는 기능과 실시간 소통을 위한 채팅 기능을 구현하였습니다.
 
-<details>
-  <summary>
-    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-  <rect x="3" y="7" width="13" height="10" rx="2" ry="2"></rect>
-  <polygon points="16 7 22 11 22 13 16 17 16 7"></polygon>
-</svg>
-    TeamToast.mp4  :  이미지 클릭 후 영상 시청
-  </summary>
-
-  [![유튜브 미리보기 이미지](https://img.youtube.com/vi/4sR4FVVXjDQ/0.jpg)](https://www.youtube.com/watch?v=4sR4FVVXjDQ)
-</details>
+## 시연 영상
+https://img.youtube.com/vi/4sR4FVVXjDQ/0.jpg)](https://www.youtube.com/watch?v=4sR4FVVXjDQ
 
 
 ## 개발 기간
