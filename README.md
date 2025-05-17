@@ -10,8 +10,8 @@
 팀 구성원들이 협업 공간을 생성하여 목표에 따라 스프린트와 이슈를 체계적으로 관리할 수 있는 서비스를 제공하고자 하였습니다. 
 검색, 드래그 앤 드롭, 타임라인을 통해 스프린트와 이슈를 검색/수정하며 확인할 수 있는 기능과 실시간 소통을 위한 채팅 기능을 구현하였습니다.
 
-## 시연 영상
-https://img.youtube.com/vi/4sR4FVVXjDQ/0.jpg)](https://www.youtube.com/watch?v=4sR4FVVXjDQ
+- 시연 영상
+https://img.youtube.com/vi/4sR4FVVXjDQ/0.jpg)](https://www.youtube.com/watch?v=4sR4FVVXjDQ   
 
 
 ## 개발 기간
